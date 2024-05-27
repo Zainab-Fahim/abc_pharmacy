@@ -102,10 +102,10 @@ ABC Pharmacy is a web application designed to manage pharmaceutical inventory, o
 - `PUT /inventory/:id` - Update an inventory item by ID
 - `DELETE /inventory/:id` - Delete an inventory item by ID
 
-## Screenshots
-
+### Project Demo
 [![Watch the video](https://img.youtube.com/vi/7DZCIrQOc2s/0.jpg)](https://www.youtube.com/watch?v=7DZCIrQOc2s "Watch the video")
 
+## Screenshots
 ### Dashboard Dark Themed Page
 <img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135121.png" width="900" height="450">
 
