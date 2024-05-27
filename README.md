@@ -104,28 +104,38 @@ ABC Pharmacy is a web application designed to manage pharmaceutical inventory, o
 
 ## Screenshots
 
-Dashboard Dark Themed Page
+### Dashboard Dark Themed Page
 <img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135121.png" width="900" height="450">
-Dashboard Light Theme Page
+### Dashboard Light Theme Page
 <img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135121.png" width="900" height="450">
-Products Page
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135158.png" width="900" height="450">
-View Product Analytics
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135339.png" width="900" height="450">
-Orders Page
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135154.png" width="900" height="450">
-View Order Details
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135348.png" width="900" height="450">
-Customers Page
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135147.png" width="900" height="450">
-Edit Customer Details
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135357.png" width="900" height="450">
-Inventory Page
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135203.png" width="900" height="450">
-Delete Inventory
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135308.png" width="900" height="450">
-Add Inventory
-<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%135329.png" width="900" height="450">
+### Products Page
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135158.png?raw=true
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135158.png" width="900" height="450">
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135339.png?raw=true
+### View Product Analytics
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135339.png" width="900" height="450">
+### Orders Page
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135154.png?raw=true
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135154.png" width="900" height="450">
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135348.png?raw=true
+### View Order Details
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135348.png" width="900" height="450">
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135147.png?raw=true
+### Customers Page
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135147.png?raw=true
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135147.png" width="900" height="450">
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135357.png?raw=true
+### Edit Customer Details
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135357.png" width="900" height="450">
+### Inventory Page
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135203.png?raw=true
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135203.png" width="900" height="450">
+### Delete Inventory
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135308.png?raw=true
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135308.png" width="900" height="450">
+### Add Inventory
+https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%202024-05-27%20135329.png?raw=true
+<img src="https://github.com/Zainab-Fahim/abc_pharmacy/blob/main/Assets/Screenshot%2024-05-27%20135329.png" width="900" height="450">
 
 
 ## Contributing
